@@ -25,7 +25,7 @@ public class Restaurante {
         cuentas.put(23456, new Cuenta(23456, 5500000, "Jose Castro"));
         cuentas.put(34567, new Cuenta(34567, 1500000, "Julieta Venegas"));
         cuentas.put(45678, new Cuenta(45678, 22300000, "Gabriel Mora"));
-        cuentas.put(56789, new Cuenta(56789, 3700000, "Angelica Velasco"));
+        cuentas.put(56789, new Cuenta(56789, 3700000, "Angelica Diaz"));
         cuentas.put(67890, new Cuenta(67890, 7000000, "Mariana Rodriguez"));
         cuentas.put(78901, new Cuenta(78901, 1245000, "David Vargas"));
         cuentas.put(89012, new Cuenta(89012, 2500000, "Samuel Feris"));
